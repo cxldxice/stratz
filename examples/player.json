@@ -1,0 +1,77 @@
+{
+    "identity": {
+        "captainJackIdentityId": "3e115617-0958-4f2c-97cd-98afda077871",
+        "name": "fxck <3",
+        "feedLevel": 0,
+        "emailLevel": 0,
+        "dailyEmail": false,
+        "weeklyEmail": false,
+        "monthlyEmail": false,
+        "proCircuitFeedLevel": 0,
+        "proCircuitEmailLevel": 0,
+        "themeType": 0,
+        "languageId": 0,
+        "isEmailValidated": false,
+        "emailHour": 0,
+        "lastDailyEmail": -62135596800,
+        "lastWeeklyEmail": -62135596800,
+        "lastMonthlyEmail": -62135596800,
+        "lastLeagueDailyEmail": -62135596800,
+        "lastTeamDailyEmail": -62135596800,
+        "lastProCircuitDailyEmail": -62135596800,
+        "unsubscribeCode": "00000000-0000-0000-0000-000000000000"
+    },
+    "steamAccount": {
+        "id": 1258446607,
+        "steamId": 1258446607,
+        "lastActiveTime": "2021-11-06T16:28:00",
+        "profileUri": "https://steamcommunity.com/profiles/76561199218712335/",
+        "timeCreated": 1635872263,
+        "countryCode": "JP",
+        "cityId": 0,
+        "communityVisibleState": 3,
+        "name": "pos 2 no roll",
+        "avatar": "5b/5bdd21a86874ae74fbf5d463d8823da7148f4008_full.jpg",
+        "primaryClanId": 103582791429521408,
+        "isDotaPlusSubscriber": true,
+        "isAnonymous": false,
+        "isStratzAnonymous": false,
+        "lastMatchDateTime": 1636216080,
+        "lastMatchRegionId": 8
+    },
+    "battlePass": [],
+    "date": 1636216080,
+    "lastRegionId": 8,
+    "languageCode": [],
+    "firstMatchDate": 1635875700,
+    "matchCount": 39,
+    "winCount": 22,
+    "names": [
+        {
+            "name": "pos 2 no roll",
+            "lastSeenDateTime": 1636193308
+        },
+        {
+            "name": "1258446607",
+            "lastSeenDateTime": 1636135186
+        },
+        {
+            "name": "\u043a\u0443\u043f\u0438 \u043c\u0430\u043c\u0443 \u0441\u0443\u043a\u0430",
+            "lastSeenDateTime": 1636056052
+        },
+        {
+            "name": "\u043b\u044e\u0431\u043b\u044e \u0435\u0435",
+            "lastSeenDateTime": 1636041352
+        },
+        {
+            "name": "all muted <3",
+            "lastSeenDateTime": 1636018491
+        },
+        {
+            "name": "fxck <3",
+            "lastSeenDateTime": 1635875700
+        }
+    ],
+    "behaviorScore": 10000,
+    "steamAccountId": 1258446607
+}
